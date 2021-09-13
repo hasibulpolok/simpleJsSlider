@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom:5px;
+    text-align: center;
+    font-size: 40px;
+}
+div{
+    width: 100%;
+    margin: 5% 20%;
+}
+
+
+div img{
+    border:3px solid rgb(17, 241, 17);
+}
+
+footer{
+    text-align: center;
+    font-weight: 900;
+}
