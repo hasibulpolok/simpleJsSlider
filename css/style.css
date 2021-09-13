@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    background-color: #000;
 }
 
 h2{
@@ -7,6 +8,7 @@ h2{
     margin-bottom:5px;
     text-align: center;
     font-size: 40px;
+    color: #fff;
 }
 div{
     width: 100%;
@@ -21,4 +23,5 @@ div img{
 footer{
     text-align: center;
     font-weight: 900;
+    color: #fff;
 }
